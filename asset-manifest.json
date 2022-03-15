@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DSCLUB/static/css/main.79000741.css",
+    "main.css": "/DSCLUB/static/css/main.e30c7fc4.css",
     "main.js": "/DSCLUB/static/js/main.d18d8a17.js",
     "static/media/Mobile.svg": "/DSCLUB/static/media/Mobile.4745af2492a265e4680144261524e4f7.svg",
     "static/media/Aboutus_photo_1.svg": "/DSCLUB/static/media/Aboutus_photo_1.bb9d7bfb178b97d29f35298bed86cf5f.svg",
@@ -18,11 +18,11 @@
     "static/media/icon-youtube.svg": "/DSCLUB/static/media/icon-youtube.bf82e498c40e9034e24f41bd99563483.svg",
     "static/media/icon-vk.svg": "/DSCLUB/static/media/icon-vk.18630c2ca7536e5fa6afd36b933184e6.svg",
     "index.html": "/DSCLUB/index.html",
-    "main.79000741.css.map": "/DSCLUB/static/css/main.79000741.css.map",
+    "main.e30c7fc4.css.map": "/DSCLUB/static/css/main.e30c7fc4.css.map",
     "main.d18d8a17.js.map": "/DSCLUB/static/js/main.d18d8a17.js.map"
   },
   "entrypoints": [
-    "static/css/main.79000741.css",
+    "static/css/main.e30c7fc4.css",
     "static/js/main.d18d8a17.js"
   ]
 }
