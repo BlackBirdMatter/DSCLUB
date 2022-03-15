@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DSCLUB/static/css/main.d2577bfa.css",
+    "main.js": "/DSCLUB/static/js/main.d18d8a17.js",
+    "static/media/Mobile.svg": "/DSCLUB/static/media/Mobile.4745af2492a265e4680144261524e4f7.svg",
+    "static/media/Aboutus_photo_1.svg": "/DSCLUB/static/media/Aboutus_photo_1.bb9d7bfb178b97d29f35298bed86cf5f.svg",
+    "static/media/Dashboard.png": "/DSCLUB/static/media/Dashboard.e5ab2c9c1b4fc3b30c5f.png",
+    "static/media/Latest_1.svg": "/DSCLUB/static/media/Latest_1.4a2bb79ed6e726a0a8a1031d83d6cd77.svg",
+    "static/media/Desktop.svg": "/DSCLUB/static/media/Desktop.a04dda6aa89706261faa31a71ca1e26c.svg",
+    "static/media/Aboutus_photo_2.svg": "/DSCLUB/static/media/Aboutus_photo_2.f4ae1562f13698f43b78ca0f6bdb969b.svg",
+    "static/media/Latest_3.svg": "/DSCLUB/static/media/Latest_3.27c692d2fcd08296bcad2d744549ee7f.svg",
+    "static/media/TeachBase.png": "/DSCLUB/static/media/TeachBase.848bbbbf3673810d6c50.png",
+    "static/media/Base.png": "/DSCLUB/static/media/Base.2c8c09ab78ff31ec9ba7.png",
+    "static/media/logo.svg": "/DSCLUB/static/media/logo.e656647f603cb56c2a23d2262a6b9dbd.svg",
+    "static/media/icon-github.svg": "/DSCLUB/static/media/icon-github.a0dadfb53d23e0093c1b1b4c326b9bda.svg",
+    "static/media/icon-telegram.svg": "/DSCLUB/static/media/icon-telegram.dfa952265f79003b6bc459c1c1b3c11c.svg",
+    "static/media/Search_icon.svg": "/DSCLUB/static/media/Search_icon.216d7f5336b73ed0b528f041855b0614.svg",
+    "static/media/icon-youtube.svg": "/DSCLUB/static/media/icon-youtube.bf82e498c40e9034e24f41bd99563483.svg",
+    "static/media/icon-vk.svg": "/DSCLUB/static/media/icon-vk.18630c2ca7536e5fa6afd36b933184e6.svg",
+    "index.html": "/DSCLUB/index.html",
+    "main.d2577bfa.css.map": "/DSCLUB/static/css/main.d2577bfa.css.map",
+    "main.d18d8a17.js.map": "/DSCLUB/static/js/main.d18d8a17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2577bfa.css",
+    "static/js/main.d18d8a17.js"
+  ]
+}
